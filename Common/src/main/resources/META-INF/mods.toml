@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Automatic%20Operator"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Automatic%20Operator"
 logoFile="icon.png"
 
 [[mods]]
 modId="automaticoperator"
-version="1.1"
+version="1.2"
 displayName="Automatic Operator"
-displayURL="https://curseforge.com/minecraft/mc-mods/automatic-operator"
+displayURL="https://serilum.com/mod/automatic-operator"
 authors="Rick South"
 description='''Automatically makes all or specific players OP in server environments when they log in.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.automaticoperator]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.3,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.automaticoperator]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.1]"
     ordering="NONE"
