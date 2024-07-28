@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "automaticoperator",
-  "version": "1.2",
+  "version": "1.3",
 
   "name": "Automatic Operator",
   "description": "Automatically makes all or specific players OP in server environments when they log in.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=21",
-    "collective": ">=7.55"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -44,12 +44,9 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jack",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " pepe1191",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
