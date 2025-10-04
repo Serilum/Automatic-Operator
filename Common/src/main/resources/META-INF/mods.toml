@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="automaticoperator"
-version="1.4"
+version="1.5"
 displayName="Automatic Operator"
 displayURL="https://serilum.com/mod/automatic-operator"
 authors="Rick South"

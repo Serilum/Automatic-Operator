@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "automaticoperator",
-  "version": "1.4",
+  "version": "1.5",
 
   "name": "Automatic Operator",
   "description": "Automatically makes all or specific players OP in server environments when they log in.",
