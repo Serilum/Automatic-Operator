@@ -1,6 +1,6 @@
-package com.natamus.automaticoperator.neoforge.events;
+package com.serilum.automaticoperator.neoforge.events;
 
-import com.natamus.automaticoperator.events.WorldJoinEvent;
+import com.serilum.automaticoperator.events.WorldJoinEvent;
 import net.minecraft.world.entity.player.Player;
 import net.neoforged.neoforge.event.entity.player.PlayerEvent;
 import net.neoforged.bus.api.SubscribeEvent;

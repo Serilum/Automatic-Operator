@@ -1,10 +1,10 @@
-package com.natamus.automaticoperator;
+package com.serilum.automaticoperator;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.automaticoperator.forge.config.IntegrateForgeConfig;
-import com.natamus.automaticoperator.forge.events.ForgeWorldJoinEvent;
-import com.natamus.automaticoperator.util.Reference;
+import com.serilum.automaticoperator.forge.config.IntegrateForgeConfig;
+import com.serilum.automaticoperator.forge.events.ForgeWorldJoinEvent;
+import com.serilum.automaticoperator.util.Reference;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
@@ -30,7 +30,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeWorldJoinEvent.registerEventsInBus();
+		ForgeWorldJoinEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {
