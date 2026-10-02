@@ -1,7 +1,7 @@
-package com.natamus.automaticoperator.events;
+package com.serilum.automaticoperator.events;
 
 import com.mojang.authlib.GameProfile;
-import com.natamus.automaticoperator.config.ConfigHandler;
+import com.serilum.automaticoperator.config.ConfigHandler;
 import net.minecraft.network.chat.Component;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.server.players.PlayerList;
