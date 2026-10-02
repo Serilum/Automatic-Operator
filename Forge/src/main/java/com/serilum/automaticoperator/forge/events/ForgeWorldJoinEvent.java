@@ -1,6 +1,6 @@
-package com.natamus.automaticoperator.forge.events;
+package com.serilum.automaticoperator.forge.events;
 
-import com.natamus.automaticoperator.events.WorldJoinEvent;
+import com.serilum.automaticoperator.events.WorldJoinEvent;
 import net.minecraft.world.entity.player.Player;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
