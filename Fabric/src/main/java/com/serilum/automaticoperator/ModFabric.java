@@ -1,10 +1,10 @@
-package com.natamus.automaticoperator;
+package com.serilum.automaticoperator;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectivePlayerEvents;
-import com.natamus.automaticoperator.events.WorldJoinEvent;
-import com.natamus.automaticoperator.util.Reference;
+import com.serilum.automaticoperator.events.WorldJoinEvent;
+import com.serilum.automaticoperator.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.level.Level;

@@ -1,10 +1,10 @@
-package com.natamus.automaticoperator;
+package com.serilum.automaticoperator;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.automaticoperator.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.automaticoperator.neoforge.events.NeoForgeWorldJoinEvent;
-import com.natamus.automaticoperator.util.Reference;
+import com.serilum.automaticoperator.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.automaticoperator.neoforge.events.NeoForgeWorldJoinEvent;
+import com.serilum.automaticoperator.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;

@@ -1,6 +1,6 @@
-package com.natamus.automaticoperator;
+package com.serilum.automaticoperator;
 
-import com.natamus.automaticoperator.config.ConfigHandler;
+import com.serilum.automaticoperator.config.ConfigHandler;
 
 public class ModCommon {
 

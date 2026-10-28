@@ -1,7 +1,7 @@
-package com.natamus.automaticoperator.forge.config;
+package com.serilum.automaticoperator.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.automaticoperator.util.Reference;
+import com.serilum.automaticoperator.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
